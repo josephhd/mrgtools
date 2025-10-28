@@ -87,3 +87,6 @@ pyplot.show()
 ```
 
 ![alt text](images/smithchart.png "smithchartexample1")
+
+# matlab/char_impedance_microstrip.m
+Calculates characteristic impedance of a microstrip line. 
