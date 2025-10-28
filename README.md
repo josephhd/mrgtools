@@ -6,3 +6,6 @@ A Python library for controlling instruments over GPIB and USB using SCPI comman
 
 # python/jdsmith.py
 An improved smith chart plotting utility for use with Python and Matplotlib. 
+
+# matlab/char_impedance_microstrip.m
+Calculates characteristic impedance of a microstrip line. 
